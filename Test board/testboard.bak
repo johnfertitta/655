@@ -45,7 +45,7 @@ F 0 "D0:1" H 4100 4700 40  0000 C CNN
 F 1 "D" H 4100 4500 40  0000 C CNN
 F 2 "diode:DIODE" H 4100 4600 60  0001 C CNN
 F 3 "" H 4100 4600 60  0001 C CNN
-F 4 "Link" H 4100 4600 60  0001 C CNN "Field4"
+F 4 "http://www.digikey.com/product-detail/en/fairchild-semiconductor/1N4148/1N4148FS-ND/458603" H 4100 4600 60  0001 C CNN "Link"
 	1    4100 4600
 	-1   0    0    1   
 $EndComp
